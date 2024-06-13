@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kurisu0330
 - 👀 I’m interested in Automation, Data and Programming
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Data Analytics from Alex Freberg the Data Analyst
 - 💞️ I’m looking to collaborate on Data Analytics
 
 <!---
